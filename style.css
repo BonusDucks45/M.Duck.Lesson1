@@ -1,0 +1,51 @@
+div {
+    margin: 20px;
+}
+.box1 {
+    border-style: solid;
+    height: 150px;
+    width: 300px;
+    border-left: 3px solid yellow;
+    border-top: 3px solid blue;
+    border-right: 3px solid green;
+    border-bottom: 3px solid red;
+}
+
+.box2 {
+    height: 150px;
+    width: 300px;
+    border-left: 3px solid red;
+    border-bottom: 1px solid blue;
+    border-top: 1px solid blue;
+    border-right: 3px dotted green 
+}
+
+.box3 {
+    height: 150px;
+    width: 300px;
+    border-radius: 10px 20px 30px 40px;
+    border-style: solid;
+    border-color: red;
+}
+
+.box4 {
+    border-color: yellow;
+    border-style: double;
+    height: 150px;
+    width: 300px;
+    border-width: 10px;
+}
+
+.box5 {
+    border-color: blue;
+    border-style: dotted;
+    height: 150px;
+    width: 300px;
+}
+
+.box6 {
+    border-color: green;
+    border-style: dashed;
+    height: 150px;
+    width: 300px;
+}
